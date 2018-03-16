@@ -1,0 +1,11 @@
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\bin\Debug\netcoreapp2.0\TestServer.Core.deps.json
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\bin\Debug\netcoreapp2.0\TestServer.Core.runtimeconfig.json
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\bin\Debug\netcoreapp2.0\TestServer.Core.runtimeconfig.dev.json
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\bin\Debug\netcoreapp2.0\TestServer.Core.dll
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.csprojResolveAssemblyReference.cache
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.AssemblyInfoInputs.cache
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.AssemblyInfo.cs
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\bin\Debug\netcoreapp2.0\TestServer.Core.pdb
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.dll
+C:\Users\shorvatic\source\repos\TestServer\TestServer.Core\obj\Debug\netcoreapp2.0\TestServer.Core.pdb
